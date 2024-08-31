@@ -1,0 +1,42 @@
+{
+  "originHash" : "84ca16237a3b3913cf5f38cbf7e1b5ae1536aa7d0fe678223205c3853d43413b",
+  "pins" : [
+    {
+      "identity" : "mecab-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shinjukunian/Mecab-Swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2dc19043dfb01539523882f0c0f2e51b270201f7"
+      }
+    },
+    {
+      "identity" : "opencv-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yeatse/opencv-spm.git",
+      "state" : {
+        "revision" : "dd26dba92773b39488768888c107e5ef6b0e7c1b",
+        "version" : "4.10.0"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "a95fc6df17d108bd99210db5e8a9bac90fe984b8",
+        "version" : "0.15.3"
+      }
+    },
+    {
+      "identity" : "uipipview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/uakihir0/UIPiPView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "55994ac410ec29d81958f689b22eae0917445da9"
+      }
+    }
+  ],
+  "version" : 3
+}
