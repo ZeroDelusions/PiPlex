@@ -1,18 +1,20 @@
 # PiPlex: Real-Time Japanese Text Translation for iOS
-PiPlex is an innovative iOS application designed to enhance Japanese language learning through real-time dictionary lookups. Utilizing Picture-in-Picture (PiP) technology, the app provides instant translations for Japanese text displayed on your screen.
+PiPlex is iOS application designed to enhance Japanese language learning through real-time dictionary lookups via PiP (Picture-in-Picture) window as an on-screen translation lense
+
+https://github.com/user-attachments/assets/2a63f4ab-a2b9-42fb-a0a1-178d0f066c0b
+***
 
 ## Key Features
 
 -   Screen capture via broadcast upload extension
 -   PiP window detection using ArUco markers
 -   Real-time Japanese text recognition
+-   Overlay of original text and translations on PiP content
 -   Japanese tokenization with MeCab (IPADic or UNIDic)
 -   Dictionary lookups using JMDict (SQLite-based)
--   Overlay of original text and translations on PiP content
--   Color-coded display for parts of speech
 -   Simulated transparency effect for PiP window
 
-## Future Enhancements
+## For Future
 
 -   Multi-language support using Apple's Translation API
 -   Performance optimization
@@ -21,12 +23,6 @@ PiPlex is an innovative iOS application designed to enhance Japanese language le
 -   Japanese learning features:
     -   Translation saving with screen frames
     -   Anki card creation from PiP content
-
-## Current Limitations
-
--   Japanese-only text recognition
--   Context-unaware dictionary lookups
--   Prototype-stage performance
 
 ## Dependencies
 
